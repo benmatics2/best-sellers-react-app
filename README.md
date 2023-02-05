@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-open bestsellerapp.netlify.app to  view in browser
+open [bestsellerapp.netlify.app](https://bestsellerapp.netlify.app/) to  view in browser
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
